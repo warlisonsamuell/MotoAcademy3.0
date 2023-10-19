@@ -23,3 +23,15 @@ body{
     left: 240px;
     border: 1px solid black;
 }
+
+.paragrafo{
+    width: 600px;
+    margin: 20px;
+    color: black;
+    font-size:100%;
+    font-style:normal;
+    text-transform: uppercase;
+    text-decoration:overline underline ;
+    text-shadow: 1px 1px 1px cadetblue;
+    text-align:initial;
+}
